@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/prashantvermaiiitb/semantic-version-example#readme",
   "dependencies": {
-    "inquirer": "^7.3.0"
+    "inquirer": "~7.3.0"
   }
 }
